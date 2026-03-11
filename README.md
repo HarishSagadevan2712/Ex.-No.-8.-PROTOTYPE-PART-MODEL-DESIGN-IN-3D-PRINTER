@@ -46,7 +46,8 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![Uploading image.png…]()
+<img width="1600" height="824" alt="image" src="https://github.com/user-attachments/assets/a0c15891-b2fc-4cec-8a29-1f4a6373ad84" />
+
 
 ### Name: Dharshana A S
 ### Register Number: 212224220022
